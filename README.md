@@ -19,7 +19,7 @@ From teaching kitesurfing to explaining technical concepts to senior stakeholder
 The reason I learnt to code. I have always been the type to break things just to see how they work and, in both previous employment and general life, thinking logically, breaking down the problem into steps and isolating the root cause has always been my go-to routine.  Learning to code has been the best outlet for this I could have imagined.
 
 #### Learning
-I've had a number of roles in the past where an ability to quickly get to grips with a new system, technology or concept has been invaluable. These have ranged from throwing myself into a technical architect role with the minimum of experience, to learning the background running of a small business in order to help migration to a completely new system. My aptitude for taking in new information has never been more put to the test, however, than at Makers Academy, where 4 months of intensive learning has been the most exhausting, but most enjoyable time of my life.
+I've had a number of roles in the past where an ability to quickly get to grips with a new system, technology or concept has been invaluable. These have ranged from throwing myself into a technical architect role with the minimum of experience, to learning the background running of a small business in order to help migration to a completely new system. My aptitude for taking in new information has never been more put to the test than at Makers Academy, where 4 months of intensive learning has been the most exhausting, but most enjoyable time of my life.
   
 ## Experience
 

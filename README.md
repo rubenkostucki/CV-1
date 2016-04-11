@@ -13,13 +13,14 @@ Recently completed Makers Academy, an intensive, bootcamp-style software develop
 
 ## Skills
 #### Communication  
-From teaching kitesurfing to explaining technical concepts to senior stakeholders in previous jobs, I have always prided myself on an ability to quickly, clearly communicate ideas. This has been invaluable while pair-programming, something I've enjoyed immensely in my time at Makers Academy and an important part of agile software development.
+  - Led communication with key senior stakeholders as a junior technical architect for Entryphone Systems. Responsibilities included explaining and presenting key technical concepts to product owners and liaising with clients and engineers to build user stories.
+  - Sales experience working as lead front-of-house for an award winning restaurant required a confident, calm and professional demeanour at all times.
+  - Worked as a kitesurfing instructor, coaching both individuals and groups of students.
   
-#### Problem-Solving
-The reason I learnt to code. I have always been the type to break things just to see how they work and, in both previous employment and general life, thinking logically, breaking down the problem into steps and isolating the root cause has always been my go-to routine.  Learning to code has been the best outlet for this I could have imagined.
-
-#### Learning
-I've had a number of roles in the past where an ability to quickly get to grips with a new system, technology or concept has been invaluable. These have ranged from throwing myself into a technical architect role with the minimum of experience, to learning the background running of a small business in order to help migration to a completely new system. My aptitude for taking in new information has never been more put to the test than at Makers Academy, where 4 months of intensive learning has been the most exhausting, but most enjoyable time of my life.
+#### Learning & Problem-Solving
+  - A passion for improving processes or problem-solving has been the unifying characteristic of every role in which I have worked in and I have always prided myself on an ability and love of picking up new concepts quickly.
+  - As an internal audit assistant, I automated much of the work, originally intended to be done manually, that was involved in a company’s backdated financial reporting.
+  - I established a vastly improved order-processing system after realising the inefficiency of the current implementation during an internship at a small internet retail company.
   
 ## Experience
 
@@ -60,4 +61,4 @@ Societies included:
   
 ## Other Interests
   - I'm a keen rock climber and kitesurfer, spending a while teaching the latter.
-  - Enjoy reading, sports, breaking things(only occasionally myself), fixing them, cooking, pretty much almost anything else put in front of me.
+  - In my spare time I enjoy reading, cooking, playing sport, breaking things (only occasionally myself), fixing them and generally taking an interest in pretty much anything put in front of me.

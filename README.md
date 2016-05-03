@@ -29,7 +29,7 @@ A highly selective, intensive software development course. Learning not just to 
 
   - Followed Agile methodologies from day 1, including TDD, BDD and pair programming.
   - Focused on Object Oriented Design/SOLID principles and development best practices.
-  - Taught Ruby (plus Rails & Sinatra) and JavaScript (using jQuery & AngularJS)
+  - Learnt Ruby (plus Rails & Sinatra) and JavaScript (using jQuery & AngularJS)
   - Also self-taught/experimented with Python (plus Flask), NodeJS and R.
   - Test Driven Development using frameworks including RSpec, Capybara, Jasmine, Karma, Protractor along with a few others.
   - Experience with databases including PostgreSQL and MongoDB/Mongoose.
